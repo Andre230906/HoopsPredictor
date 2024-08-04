@@ -7,15 +7,10 @@
 > Este trabajo se justificado en la documentacion propia de java y se podra observar todo el desarrollo pertinente en el documento formal del proyecto "Hoops Predictor"  [Documento Formal](https://juniper-haze-878.notion.site/HoopsPredictor-14ba557ec70e41a2abb188dbc82ee01d?pvs=4) 
 
 
-<details>
-
 **Descripción del Proyecto:**
 
 Una casa de apuestas ha decidido revolucionar la forma en que sus clientes hacen sus predicciones con HoopsPredictor. Este innovador software permite a los usuarios conocer las probabilidades de que un equipo derrote a otro en la National Basketball Association (NBA). Utilizando un sofisticado análisis de datos históricos y el valor de las plantillas de los equipos, HoopsPredictor realiza comparaciones detalladas y determina los resultados mediante una fórmula única. Esta herramienta no solo brinda una ventaja competitiva, sino que asegura casi un 50% de precisión en las predicciones, convirtiendo cada apuesta en una experiencia emocionante y bien informada.
-<details>
-  <summary>Requerimientos</summary>
-   <br>
-### Requisitos para el Proyecto HoopsPredictor:
+
 
 ### Requisitos del Sistema:
 
@@ -66,10 +61,8 @@ Una casa de apuestas ha decidido revolucionar la forma en que sus clientes hacen
 - Mantener una alta precisión en las predicciones para mejorar la confianza y satisfacción de los clientes.
 
 
-</details>
 
   
-</details>
 
 
 Para asumir este trabajo se siguio una serie de pasos los cuales nos iban ayudar a poder diseñar y gestionar de manera eficiente esta base de datos, este readme sera un breve abrebocas de la documentacion final que podras encontrar en la parte final de este readme en su version de Documento como en Notion los cuales a traves del tiempo iran recibiendo cambios para mantener actualizada toda la informacion necesaria. <br>
